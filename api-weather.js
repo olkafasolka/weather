@@ -1,7 +1,5 @@
 window.onload = function () {
-    // var cityList = document.getElementById("cityList");
-    
-
+   
     loadCity();
 
     function loadCity() {
